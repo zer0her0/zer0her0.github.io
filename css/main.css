@@ -3,6 +3,11 @@ body {
 	min-width: 800px;
 }
 
+a {
+	color: #afafaf;
+	text-decoration: none;
+}
+
 img {
 	padding: 0;
 	margin: 0;
