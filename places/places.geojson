@@ -1,0 +1,320 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.091003,
+                    32.083969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Savannah, GA",
+                "description": "<div dir=\"ltr\">Spring/Summer Vacation w/ C&amp;C 2009</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.572319,
+                    34.195618,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clarksdale, MS",
+                "description": "<div dir=\"ltr\">Help Corbin, pack her mom&#39;s house up and run a tag sale. 2009</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.757263,
+                    30.28421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Austin, TX",
+                "description": "<div dir=\"ltr\">Visited w/ Laney.  2009</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773987,
+                    32.802513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dallas, TX",
+                "description": "<div dir=\"ltr\">Visited w/ Laney. 2009</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.695312,
+                    45.54483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portland, OR",
+                "description": "<div dir=\"ltr\">Visited w/ Katie. 2010</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.728271,
+                    42.187828,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ashland, OR",
+                "description": "<div dir=\"ltr\">Visited w/ Katie. 2010</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.273926,
+                    44.980343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Minneapolis, MN",
+                "description": "<div dir=\"ltr\">Where I was born, and have returned to many times.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.560303,
+                    41.533253,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Davenport, IA",
+                "description": "<div dir=\"ltr\">Where most of my family is from, and visited many times.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.214111,
+                    44.382767,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bar Harbor, Me",
+                "description": "<div dir=\"ltr\">Spent many summers and falls hiking here.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.21524,
+                    43.965637,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tenants Harbor, ME",
+                "description": "<div dir=\"ltr\">Grandparent&#39;s house.  Most all summers spent here.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.634644,
+                    35.773258,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Raleigh, NC",
+                "description": "<div dir=\"ltr\">Went to a conference w/ Corbin. 2009</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.376709,
+                    47.620975,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seattle, WA",
+                "description": "<div dir=\"ltr\">Traveled here a couple times senior year of HS. 1998</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.134766,
+                    49.23912,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vancouver, BC",
+                "description": "<div dir=\"ltr\">Visited my junior to senior summer of HS. 1997</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.278809,
+                    34.089062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Angeles, CA",
+                "description": "<div dir=\"ltr\">Working summer w/ Dad sophomore year of HS. 1996</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.475586,
+                    37.840157,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Francisco, CA",
+                "description": "<div dir=\"ltr\">Been here more times then I can count at this point. 2010</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.196411,
+                    42.875965,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bennington, VT",
+                "description": "<div dir=\"ltr\">Sister went to college here.  2010</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.212891,
+                    44.492588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Burlington, VT",
+                "description": "<div dir=\"ltr\">Best friend went to school here, visited a couple times while we were in college. 2001</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.461792,
+                    20.758682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kihei, HI",
+                "description": "<div dir=\"ltr\">Sister&#39;s Wedding on Maui.  2007</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.480469,
+                    41.902279,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Roma, Italy",
+                "description": "<div dir=\"ltr\">School Trip. 1996</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.238281,
+                    40.847061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Napoli, Italy",
+                "description": "<div dir=\"ltr\">School Trip. 1996</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337402,
+                    38.099983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palermo, Sicily",
+                "description": "<div dir=\"ltr\">School Trip, my fave place while in Italy. 1996</div>"
+            }
+        }
+    ]
+}
