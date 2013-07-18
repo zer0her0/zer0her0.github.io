@@ -1,0 +1,14 @@
+/* TEAM */
+Name: Andrew J Meier
+Email: zer0her0 [at] gmail [dot] com
+Twitter: @zer0her0
+Location: New York State of Mind
+
+/* THANKS */
+Everybody!
+
+/* SITE */
+Last update: 2013/07/18 This'll prob be out of date REAL quick.
+Standards: HTML 5, CSS3, JS
+Compenents: Jekyll
+Software: Coda, VIM, GIT, Github
