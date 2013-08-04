@@ -1,6 +1,6 @@
 ---
-layout: default
-title: resume
+layout: resume
+title: Andrew J Meier's Resume
 ---
 
 # Andrew J Meier
