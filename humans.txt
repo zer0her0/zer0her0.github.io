@@ -11,4 +11,4 @@ Everybody!
 Last update: 2013/07/18 This'll prob be out of date REAL quick.
 Standards: HTML 5, CSS3, JS.
 Compenents: Jekyll.
-Software: Coda, VIM, GitHub, GIT, iA Writer, Pixelmator, Evernote.
+Software: Coda, VIM, GitHub, GIT, Pixelmator, iA Writer, Evernote.
