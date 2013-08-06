@@ -1,11 +1,6 @@
----
-layout: resume
-title: Andrew J Meier's Resume
----
-
 # Andrew J Meier
-andrew.meier@gmail.com, 518.698.2548
-155B Lancaster St, Albany, NY 12210
+zer0her0@gmail.com, 518.698.2548,
+155B Lancaster St, Albany, NY, 12210
 
 ## Profile
 I am a motivated, experienced individual, looking for a company that will both maximize my current skills and encourage me to expand my knowledge base into new areas, so that I can create and support the best products in the field.
@@ -51,19 +46,19 @@ I attended White Plains Public High School from 1994 to 1998 with a focus on art
 #### Edward Tufte, New York, NY, Presenting Data & Information, 1998
 A one day course taught by Edward Tufte, a professor of and expert in statistics and information design, teaches about fundamental strategies of analytical design, evaluating presentations and statistical data, and clearly presenting complex data and interfaces.
 
-## Certification
+### Certification
 * Apple Certified End User - Final Cut Pro 5, Level 1 - 2006
 * Apple Certified End User - DVD Studio Pro 4, Level 1 - 2006
 * Apple Certified Desktop Technician (ACDT) - 2003-2008
 * Apple Certified Portable Technician (ACPT) - 2003-2008
 * Apple Certified Mac OS - 2003
 
-## Awards
+### Awards
 * Certification of Recognition, NY State Capital Restoration Project - NY Executive Chamber - 2012
 * Certification of Excellence, NYSED Website Redesign Projects - State Education - 2009
 * Certification of Excellence, Sales - Apple - 2005
 
-## Skills [needs work]
+### Skills
 * Platforms: Mac OS X, Mac OS 9, Windows 3.11/95/98/NT/2000/XP, Linux(Ubuntu), BeOS
 * Software: Final Cut Studio, iLife, iWork, MS Office, Adobe CS Suite
-* Programming:  HTML, CSS, JavaScript, XML, SQL, Perl, Java, C++ and ActionScript.
+* Languages:  HTML, CSS, JavaScript, XML
