@@ -1,3 +1,8 @@
+---
+layout: resume
+title: Andrew J Meier's Resume
+---
+
 # Andrew J Meier
 zer0her0@gmail.com, 518.698.2548,
 155B Lancaster St, Albany, NY, 12210
