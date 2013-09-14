@@ -12,6 +12,16 @@ Hello, moving over to Jekyll.
 <p><a href="http://zer0her0.github.io/resume">My regular resume.</a>
 <p><a href="http://resume.github.io/?zer0her0">My github resume.</a>
 
+<!--blog stuff after here, need to move to 2 columns-->
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <!--I want the ability to re-organize my blog from old to new or new to old-->
 
 <!--todo: 1) Mobile CSS 2) Print CSS 3) geoJSON embedded page 4) profit!-->
