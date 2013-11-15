@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Andrew J Meier | zer0her0.info</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href='http://fonts.googleapis.com/css?family=Droid+Serif&subset=latin' rel='stylesheet' type='text/css'>
+		<link href="countdown.css" rel="stylesheet" type="text/css" />
+		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="images/apple-touch-icon.png" type="image/png" />
+		
+		<script type="text/javascript">
+		//######################################################################################
+		// Author: ricocheting.com
+		// For: public release (freeware)
+		// Date: 4/24/2003 (update: 6/26/2009)
+		// Description: displays the amount of time until the "dateFuture" entered below.
+
+
+		// NOTE: the month entered must be one less than current month. ie; 0=January, 11=December
+		// NOTE: the hour is in 24 hour format. 0=12am, 15=3pm etc
+		// format: dateFuture = new Date(year,month-1,day,hour,min,sec)
+		// example: dateFuture = new Date(2003,03,26,14,15,00) = April 26, 2003 - 2:15:00 pm
+
+		dateFuture = new Date(2013,11,6,12,00,00); //ESF ceremony
+
+		// TESTING: comment out the line below to print out the "dateFuture" for testing purposes
+		//document.write(dateFuture +"<br />");
+
+
+		//###################################
+		//nothing beyond this point
+		function GetCount(){
+
+			dateNow = new Date();									//grab current date
+			amount = dateFuture.getTime() - dateNow.getTime();		//calc milliseconds between dates
+			delete dateNow;
+
+			// time is already past
+			if(amount < 0){
+				document.getElementById('countbox').innerHTML="Now!";
+			}
+			// date is still good
+			else{
+				days=0;hours=0;mins=0;secs=0;out="";
+
+				amount = Math.floor(amount/1000);//kill the "milliseconds" so just secs
+
+				weeks=Math.floor(amount/604800);//weeks
+				amount=amount%604800;
+
+				days=Math.floor(amount/86400);//days
+				amount=amount%86400;
+
+				hours=Math.floor(amount/3600);//hours
+				amount=amount%3600;
+
+				mins=Math.floor(amount/60);//minutes
+				amount=amount%60;
+
+				secs=Math.floor(amount);//seconds
+
+				if(weeks != 0){out += weeks +" week"+((days!=1)?"s":"")+", ";}
+				if(weeks != 0 || days != 0){out += days +" day"+((days!=1)?"s":"")+", ";}
+				if(weeks != 0 || days != 0 || hours != 0){out += hours +" hour"+((hours!=1)?"s":"")+", ";}
+				if(weeks != 0 || days != 0 || hours != 0 || mins != 0){out += mins +" minute"+((mins!=1)?"s":"")+", ";}
+				out += secs +" seconds";
+				document.getElementById('countbox').innerHTML=out;
+
+				setTimeout("GetCount()", 1000);
+			}
+			
+			var size = 2;
+			var activityarray = new Array(size);  
+			activityarray[0] = "ESF Graduation";  
+			activityarray[1] = "cuddling";
+			activityarray[2] = "snuggling";
+			activityarray[3] = "loving";
+			activityarray[4] = "cooking"
+			activityarray[5] = "stoking our fire";
+			activityarray[6] = "learning";
+			activityarray[7] = "experiencing";
+			activityarray[8] = "end of hell";
+			activityarray[9] = "start of our life together";
+			randno = Math.floor ( Math.random() * activityarray.length ); 
+			actout = activityarray[randno];
+			document.getElementById('activity').innerHTML=actout;
+		}
+
+		window.onload=GetCount;//call when everything has loaded
+
+		</script>
+	</head>
+	<body>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+	<div class="content" align="center">
+		<br /><br /><h3>Countdown to<div id="activity"></div></h3><br/>
+		<div id="countbox"></div>
+	</div>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-275267-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script>
+	
+	</body>
+</html>
+<!-- test -->
