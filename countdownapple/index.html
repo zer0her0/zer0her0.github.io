@@ -45,21 +45,21 @@
 			else{
 				days=0;hours=0;mins=0;secs=0;out="";
 
-				amount = Math.floor(amount/1000);//kill the "milliseconds" so just secs
+				amount = Math.floor(amount/1000); //kill the "milliseconds" so just secs
 
-				weeks=Math.floor(amount/604800);//weeks
+				weeks=Math.floor(amount/604800); //weeks
 				amount=amount%604800;
 
-				days=Math.floor(amount/86400);//days
+				days=Math.floor(amount/86400); //days
 				amount=amount%86400;
 
-				hours=Math.floor(amount/3600);//hours
+				hours=Math.floor(amount/3600); //hours
 				amount=amount%3600;
 
-				mins=Math.floor(amount/60);//minutes
+				mins=Math.floor(amount/60); //minutes
 				amount=amount%60;
 
-				secs=Math.floor(amount);//seconds
+				secs=Math.floor(amount); //seconds
 
 				if(weeks != 0){out += weeks +" week"+((days!=1)?"s":"")+", ";}
 				if(weeks != 0 || days != 0){out += days +" day"+((days!=1)?"s":"")+", ";}
@@ -81,14 +81,14 @@
 			activityarray[5] = "relaxing.";
 			activityarray[6] = "learning.";
 			activityarray[7] = "experiencing.";
-			activityarray[8] = "end of hell.";
+			activityarray[8] = "...";
 			activityarray[9] = "creating art.";
 			randno = Math.floor ( Math.random() * activityarray.length );
 			actout = activityarray[randno];
 			document.getElementById('activity').innerHTML=actout;
 		}
 
-		window.onload=GetCount;//call when everything has loaded
+		window.onload=GetCount; //call when everything has loaded
 
 		</script>
 	</head>
