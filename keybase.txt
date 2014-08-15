@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/zer0her0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zer0her0.info
+  * I am zer0her0 (https://keybase.io/zer0her0) on keybase.
+  * I have a public key with fingerprint 2421 4A95 89D8 33F3 1F0A  1D5C 1746 9D26 230E 503C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "24214a9589d833f31f0a1d5c17469d26230e503c",
+            "host": "keybase.io",
+            "key_id": "17469d26230e503c",
+            "uid": "6ba640d5b6c0e1cc1b539f7f73976200",
+            "username": "zer0her0"
+        },
+        "service": {
+            "hostname": "zer0her0.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408130806,
+    "expire_in": 157680000,
+    "prev": "61ec9db20dd977699fef9121a5a200d58f22c0237f5138ded744d345ca883fa2",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.1
+Comment: https://keybase.io/crypto
+
+yMLzAnicO8LLzMDFKO42V02ZL8CG8fSBT6UMwe/ivlUrJeWnVCpZVStlp4KptMy8
+9NSigqLMvBIlKyUjEyNDk0RLUwvLFAtj4zRjwzSDRMMU02RDcxMzyxQjMyNjg1RT
+A+NkJR2ljPxikA6gMUmJxal6mflAMSAnPjMFKIpFfSlYwiwp0czEIMU0ySzZINUw
+OdkwydTYMs08zdzY0tzMyMAApLA4tSgvMTcVqLoqtcggA4iVanWUgKJlmcmpIDeD
+rEZToZeZlwZyQUFRfkl+cn4OUCqjpKTACqSzpLIApLQ8NSkeakh8UmZeCtDjQA1l
+qUXFmfl5SlaGQJXJJZkgUw1NDCwMjQ0sDMx0lFIrCjKLUuMzQSpMzc0sDIAAZE1q
+Gcg3hqnJlilJRgYpKZbm5maWlmmpaZaGRoaJpolAv6SYWqQZGSUbGBmbp5kaGluk
+pKaYm5ikGJuYJidaWBinJRopgbxVmJevZGUCdGZiOtDI4sz0vMSS0qJUpdpDB2NY
+GBi5GNhYmUBRx8DFKQCL0J/C/P90Zu3le8TwxvV39LVkgxM2oWL1HF2Gga67Nk9/
+reK6kVna4GWh8TFGP+5NtvVnP7e/zl9qcOSH5AdV87PZG6dy/Frb6K15+3/Gg2+5
+NkqZrg2rU5oCF6dW1cw5zLGvZtUx2w9tqSk+MlP2K/skJi37ab+yOVbk8weZS8yJ
+2wQ2GejpLdweJTjrrOAuE/PjjVzi2evirvm5F6auYJUXPGQXn3l289p7Xznmvzkr
+vOHfwacNnQc8XwS4/38dUTTxdOWLzz0x9z/mMHbmnYveZbzn1c7cZ8XFU5qq8xcs
+vJ45tVCrvn2Kre8Rw8unnj0+MHv5sf2Rm+03ZxQ/mXE5qoXPUTPky02N2wofPXWv
+rHjfpe4rw90on6m1IG2q78VzLFJn6sPmxp2VL0jXeDyVf/ll1+pXe75r9Bubye8L
++8y36VRB89VFsmJlU5N2qFWseXGsKy617VJMTNn1843FoYuvl+84pPx1bleemNLu
+dedXR86+NOnX1z36ij/OpM3O69JOfrqd8+TXjzulg5gubstVzxVcPeG5XrbgcsEV
+PSvnFR+ScuP7mXD4LO/uaTwSxh9DH7ywy2Tet0Fqe1KjvNutfy/2nz+iy/g6+ozY
+N71Jl31uWb90KrK4xt78uHflw//8735mr5nB55FeryR9fbnT24d3rRwtnyoIytrU
+PmtcsFjLYeLUk6bBLl+WfVcWKq5c7FC9q3LRb1VP+bilAKQjlIo=
+=OZIe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zer0her0
+
+==================================================================
