@@ -8,7 +8,7 @@ Location: New York State of Mind
 Everybody!
 
 /* SITE */
-Last update: 2013/07/18 This'll prob be out of date REAL quick.
+Last update: 2014/09/12 This'll prob be out of date REAL quick.
 Standards: HTML 5, CSS3, JS.
 Compenents: Jekyll.
-Software: Coda, VIM, GitHub, GIT, Pixelmator, iA Writer, Evernote.
+Software:  Atom, VIM, GitHub, GIT, Pixelmator, iA Writer, Coda, Evernote.
